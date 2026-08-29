@@ -1,0 +1,43 @@
+2026/7/31:
+1-make simple esp32 file print values : ✅
+2-read USB dircetly : ✅
+3-print the valuse of esp32 on the terminal : ✅
+4-make simple window of drwing for oscilloscope : ✅
+2026/8/2:
+5-think about make values start from 0 to 900 : ✅
+6-see what is the probelm with Serial data : ✅
+2026/8/3:
+7-check if serial data is digit before conver it to intger : ✅
+8-solve the problem of RAYLIB stopping the progrom from reading serail data (maybe you should use threads): ✅
+2026/8/4:
+9-solve the reste esp32 bug values dont change
+10-make the progrom read flaot values and negative values
+11-make algorithm for proeccing data 
+2026/8/7:
+10-make vectors for ampltud and time ✅
+11-see why in start the Y=0 ? 
+12-draw grid 
+13-change the background color
+14-see the best value of fps for delay ✅
+15-make for the shift of wave ✅
+2026/8/10:
+16-add something like a values in the grid
+2026/8/14:
+17-solve the bug of (stof what()) ✅
+18-able to adjust the signal size if it is so small or so big✅
+2026/8/21:
+19-add spinner for size and pos ✅
+20-add interpoltion
+21-add calculation of mean,peak,min ✅
+22-for sizing add negative values to make the save smaller ✅
+2026/8/24:
+23-fix the probelm of calculation of MEAN
+24-add clean key ✅
+25-add stop key ✅
+26-add the abilty to minmize the signal ✅
+2026/8/25:
+27-eliminate spaces in signal ✅
+2026/8/28:
+28-add READ button ✅
+2026/8/29:
+29-abilty to make signal smaller

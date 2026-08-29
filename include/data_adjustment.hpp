@@ -1,0 +1,1 @@
+float first_adjustment(float value,int wave_size,int pos);
